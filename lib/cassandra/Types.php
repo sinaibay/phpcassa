@@ -83,7 +83,7 @@ final class CqlResultType {
   );
 }
 
-class Column extends TBase {
+class ColumnT extends TBase {
   static $_TSPEC;
 
   public $name = null;
